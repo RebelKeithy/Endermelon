@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/stem_fruit",
+    "textures": {
+        "stem": "endermelon:blocks/melon_stem_disconnected",
+        "upperstem": "endermelon:blocks/melon_stem_connected"
+    }
+}

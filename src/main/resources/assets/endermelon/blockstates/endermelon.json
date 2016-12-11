@@ -1,0 +1,7 @@
+{
+    "forge_marker": 1,
+    "variants": {
+        "normal": { "model": "endermelon:endermelon" },
+        "inventory": { "model": "endermelon:endermelon" }
+    }
+}
